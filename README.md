@@ -1,4 +1,4 @@
-# 🩻 Chest X-ray Pathology Analyzer
+# Chest X-ray Pathology Analyzer
 
 A Streamlit web application that uses deep learning to analyze chest X-ray images and detect potential pathologies. Built with PyTorch and TorchXRayVision's pretrained DenseNet121 model.
 
@@ -83,7 +83,7 @@ chest-xray-analyzer/
 ├── app.py                  # Main Streamlit application
 ├── requirements.txt        # Python dependencies
 ├── README.md              # This file
-└── images/                # (Optional) Sample X-ray images for testing
+└── images/                # Images
 ```
 
 ## Technical Details
@@ -103,7 +103,7 @@ Typical performance on consumer hardware:
 
 ## Limitations & Disclaimer
 
-⚠️ **IMPORTANT**: This tool is for **educational and research purposes only**. 
+**IMPORTANT**: This tool is for **educational and research purposes only**. 
 
 - NOT intended for clinical diagnosis
 - NOT a substitute for professional medical advice
@@ -159,7 +159,7 @@ This project uses TorchXRayVision which is available under the Apache 2.0 licens
 
 ## Contact
 
-For questions or issues, please open an issue on GitHub or contact [your-email@example.com]
+For questions or issues, please open an issue on GitHub or contact [pjayakrishnareddy001@gmail.com]
 
 ---
 
