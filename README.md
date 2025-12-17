@@ -34,7 +34,7 @@ The model can detect various conditions including:
 
 1. Clone this repository:
 ```bash
-git clone <[your-repo-url](https://github.com/Jayakrishna143/Chest_Xray_analysis.git)>
+git clone https://github.com/Jayakrishna143/Chest_Xray_analysis.git
 cd Chest_Xray_analysis
 ```
 
